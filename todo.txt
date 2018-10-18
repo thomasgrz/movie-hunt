@@ -1,0 +1,9 @@
+Final Goal: a multipage movie browswer application
+
+steps to create:
+1) create search field (top)[check]
+2) have search field query movie database api 
+3) display queries below search field
+4) make queries clickable
+5) when clicked go to page for movie
+6) have movie page display specific info about movie
